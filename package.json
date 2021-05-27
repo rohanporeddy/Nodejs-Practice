@@ -1,0 +1,11 @@
+{
+  "name": "url-parse",
+  "version": "1.0.0",
+  "description": "It is used to parse URL to get Query String",
+  "main": "demo_fileserverclimate.js",
+  "scripts": {
+    "test": "node demo_fileserverclimate.js"
+  },
+  "author": "Rohan Poreddy",
+  "license": "ISC"
+}
